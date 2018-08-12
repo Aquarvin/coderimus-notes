@@ -1,4 +1,4 @@
-## Coderimus Magento 2 notes
+## Coderimus Magento notes
 
 This is a collection list of things related to the [Magento](https://magento.com/).
 
